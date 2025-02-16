@@ -9,7 +9,7 @@
  body {
    height: 100vh;
    width: 100vw;
-   background: url(./mountains7.png) , url(./mountains4.png) , url(./mountains3.png) , url(./stars1.png),#012;
+   background: url('./mountains7.png') , url('./mountains4.png') , url('./mountains3.png') , url('./stars1.png'),#012;
    background-repeat: no-repeat;
    -webkit-background-size: 100% 100%;
    background-size: 100% 100%;

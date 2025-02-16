@@ -1,6 +1,6 @@
 ## MIT License
 
-Copyright (c) 2021, micro-gopher31 (https://spck.io/labs/qz1zjaVah)
+Copyright (c) 2021, Abd El-Rahman Reda 
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
